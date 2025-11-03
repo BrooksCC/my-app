@@ -1,0 +1,6 @@
+# 忽略 node_modules 目录（所有依赖）
+node_modules/
+# 还可以添加其他临时文件/目录，例如：
+.next/
+dist/
+*.log
